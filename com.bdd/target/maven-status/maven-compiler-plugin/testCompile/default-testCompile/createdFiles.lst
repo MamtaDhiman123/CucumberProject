@@ -1,0 +1,5 @@
+com\bdd\StepDefination\SignupStepdef.class
+com\bdd\StepDefination\Stepdef.class
+com\bdd\testrunner\Testrun.class
+com\bdd\Pageobject\LoginPages.class
+com\bdd\Pageobject\SignUpPage.class
